@@ -11,7 +11,7 @@ This project covers several key concepts, including:
 - StatelessWidget and StatefulWidgets
 - final and const
 - Widget optimization
-- Methods and classes among others
+- Methods and classes
 - And more!
 
 I've already learned a lot through this project, and I'm excited to keep improving and building even more advanced apps
