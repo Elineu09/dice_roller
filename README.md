@@ -1,11 +1,19 @@
-## First Flutter Project
+## First Flutter Project - Dice Roller
 
 - Dice Roller 
 
-This is my firt project with flutter, where i learn the basis of dart and flutter
-This app changes the dice face when i click the button 'Roll Dice' 
-This project implements several concepts, such as Widgets, StatelessWidget, StatefulWidgets, final, const
-widget optimization, methods, classes among others. 
+This is my firt project with Flutter, where i learned the basics of Dart and Flutter.
 
-I could learn a lot and i'm still going to learn a lot of things and improve my future projects. 
+The app changes the dice face each time i click the 'Roll Dice' button.
+
+This project covers several key concepts, including: 
+- Widgets
+- StatelessWidget and StatefulWidgets
+- final and const
+- Widget optimization
+- Methods and classes among others
+- And more!
+
+I've already learned a lot through this project, and I'm excited to keep improving and building even more advanced apps
+in the future.
 
